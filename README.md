@@ -3,7 +3,7 @@
 
 ###
 <h2 align="left">
-    I'm primarily focused on building MVC web apps using the .NET framework, as well as client-side applications and custom APIs. I've also gained valuable experience with frameworks like Ruby on Rails and React. I'm always eager to learn more and expand my knowledge. Feel free to reach me at <a href="mailto:LouayDev01@gmail.com">LouayDev01@gmail.com</a> or on Discord: Fazzy#8163.
+    I'm primarily focused on building MVC web apps using the .NET framework, as well as client-side applications and custom APIs. I've also gained valuable experience with frameworks like Ruby on Rails and React. I'm always eager to learn more and expand my knowledge. Feel free to reach me at <a href="mailto:Dev01@gmail.com">LouayDev01@gmail.com</a> or on Discord: Fazzy#8163.
 </h2>
 
 
