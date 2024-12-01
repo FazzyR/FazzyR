@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fazzy, and I'm a Computer Science student from Algiers, currently studying at <a href="https://www.usthb.dz/">USTHB</a>.</h2>
+<h2 align="left">Hi 👋! My name is Louay , and I'm a Computer Science student from Algiers, currently studying at <a href="https://www.usthb.dz/">USTHB</a>.</h2>
 
 
 ###
